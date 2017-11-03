@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="day17_02_autologin"
+  id="myeclipse.1445067565786"
+  context-root="/day17_02_autologin"
+  j2ee-spec="5.0"
+  archive="day17_02_autologin.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
